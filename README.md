@@ -1,2 +1,2 @@
 # Titanic-Data-Analysis
-It is an anlysis of Titanic Dataset
+It is an analysis of Titanic Dataset.
